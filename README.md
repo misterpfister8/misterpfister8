@@ -4,7 +4,7 @@ IT Operations apprentice (Betriebsinformatiker EFZ) in Switzerland.
 I build practical tools with AI – from local agents to full applications.
 
 #### What I'm working on
-- **[LCA Wrench](https://github.com/lca-wrench/lca-wrench)** – co-author of an open-source web interface for life cycle assessment with Brightway 2.5: own calculation engine, multi-method results, Sankey diagrams
+- **[LCA Wrench](https://github.com/lca-wrench/lca-wrench)** – co-author of an open-source web interface for life cycle assessment with Brightway 2.5: own calculation engine, multi-method results, Sankey diagrams. [v0.1.0 released](https://github.com/lca-wrench/lca-wrench/releases/latest) for macOS and Windows · [DOI 10.5281/zenodo.24342345](https://doi.org/10.5281/zenodo.24342345)
 - **AI agents** – autonomous workers running on my own hardware with a local LLM, plus a dashboard to monitor them
 - **Wisperpfister** – push-to-talk dictation for macOS, fully on-device with local post-processing *(coming soon)*
 - **Pfisterkiste** – iOS app with 21 games for iPhone and iPad, built with SwiftUI. Free, no ads, no account
